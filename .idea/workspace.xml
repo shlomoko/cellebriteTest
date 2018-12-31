@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce88bc49-079a-4067-94b0-97739f444433" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta.xcodeproj/project.xcworkspace/xcuserdata/shlomokoppel.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/WhatsApp Image 2018-07-04 at 14.49.31.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Assets.xcassets/WhatsApp Image 2018-07-04 at 14.49.31.imageset/WhatsApp Image 2018-07-04 at 14.49.31.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/LinktoneIOS.xcdatamodeld/.xccurrentversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/LinktoneIOS.xcdatamodeld/LinktoneIOS.xcdatamodel/contents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dikta/LinktoneIOS/Dikta/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-about-24.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-about-24.imageset/icons8-about-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-home-filled-25.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-home-filled-25.imageset/icons8-home-filled-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-study-filled-25.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-study-filled-25.imageset/icons8-study-filled-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-user-account-filled-25.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Linktone2/LinktoneIOS/LinktoneIOS/Assets.xcassets/icons8-user-account-filled-25.imageset/icons8-user-account-filled-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Podfile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/AFError.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Alamofire.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/MultipartFormData.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/NetworkReachabilityManager.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Notifications.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/ParameterEncoding.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Request.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Response.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/ResponseSerialization.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Result.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/ServerTrustPolicy.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/SessionDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/SessionManager.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/TaskDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Timeline.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Alamofire/Source/Validation.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Manifest.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/Alamofire.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/Pods-hidabrout.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/Pods-hidabroutTests.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/Pods-hidabroutUITests.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/SwiftyJSON.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Pods.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/SwiftyJSON/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/SwiftyJSON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/SwiftyJSON/Source/SwiftyJSON.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Alamofire-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Alamofire-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Alamofire.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Alamofire.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Alamofire/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-resources.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabrout/Pods-hidabrout.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-resources.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutTests/Pods-hidabroutTests.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-acknowledgements.markdown" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-acknowledgements.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-frameworks.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-resources.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests.debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/Pods-hidabroutUITests/Pods-hidabroutUITests.release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-dummy.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-prefix.pch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/SwiftyJSON.modulemap" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/Pods/Target Support Files/SwiftyJSON/SwiftyJSON.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcodeproj/project.xcworkspace/xcuserdata/shlomokoppel.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcodeproj/xcuserdata/shlomokoppel.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcworkspace/xcuserdata/shlomokoppel.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout.xcworkspace/xcuserdata/shlomokoppel.xcuserdatad/xcdebugger/Breakpoints_v2.xcbkptlist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/GlobalVariables.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/Router.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/AppIcon.appiconset/ItunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/bg_7brachot.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/bg_7brachot.imageset/bg_7brachot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo.imageset/iTunesArtwork@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo.imageset/iTunesArtwork@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo.imageset/iTunesArtwork@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo_text.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/logo_text.imageset/logo_text.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/מסך פתיחה לשבע ברכות.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Assets.xcassets/מסך פתיחה לשבע ברכות.imageset/מסך פתיחה לשבע ברכות.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/hidabrout.entitlements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/hidabrout.xcdatamodeld/.xccurrentversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/extra/hidabrout.xcdatamodeld/hidabrout.xcdatamodel/contents" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/login/Login.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/login/LoginViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/main/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/main/MainViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabrout/main/ViewController.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabroutTests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabroutTests/hidabroutTests.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabroutUITests/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hidabrout/hidabroutUITests/hidabroutUITests.swift" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-962478436">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="26" />
+          <entry key="py" value="1500" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1526" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+                <marker date="1546276478184" expanded="true" signature="128:1376" ph="..." />
+                <marker date="1546276478184" expanded="true" signature="909:980" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Buildout</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="food divider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="food divider" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="food divider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce88bc49-079a-4067-94b0-97739f444433" name="Default Changelist" comment="" />
+      <created>1545927139371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545927139371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" weight="0.32891566" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2018.2/python_stubs/-1264815233/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="2233" column="8" selection-start-line="2233" selection-start-column="8" selection-end-line="2233" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+            <marker date="1546276478184" expanded="true" signature="128:1376" ph="..." />
+            <marker date="1546276478184" expanded="true" signature="909:980" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
